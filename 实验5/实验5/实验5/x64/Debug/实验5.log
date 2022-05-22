@@ -1,0 +1,4 @@
+﻿  2.c
+d:\2022★★\2022 c程序设计课\visual studio works\c实验\实验5\实验5\实验5\2.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  实验5.vcxproj -> D:\2022★★\2022 C程序设计课\Visual Studio works\C实验\实验5\实验5\x64\Debug\实验5.exe
